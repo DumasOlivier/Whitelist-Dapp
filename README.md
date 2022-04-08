@@ -11,3 +11,8 @@ Whitelist access should be given to the first 10 users for free who want to get 
 - Framework : Hardhat
 - Blockchain : Ethereum (Rinkeby network)
 - Solidity ^0.8.0
+
+### Web interface using Next.js :
+
+- [Github repo](https://github.com/DumasOlivier/Whitelist-Dapp-Front)
+- [https://whitelist-dapp-front.vercel.app/](https://whitelist-dapp-front.vercel.app/)
