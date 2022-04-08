@@ -10,13 +10,3 @@ artifacts
 
 # MacOs
 .DS_Store
-
-# Hardhat-whitelist-dapp
-hardhat-whitelist-dapp/node_modules
-hardhat-whitelist-dapp/node_modules
-hardhat-whitelist-dapp/.env
-hardhat-whitelist-dapp/coverage
-hardhat-whitelist-dapp/coverage.json
-hardhat-whitelist-dapp/typechain
-hardhat-whitelist-dapp/cache
-hardhat-whitelist-dapp/artifacts
