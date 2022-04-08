@@ -1,15 +1,13 @@
-# Basic Sample Hardhat Project
+# Whitelist Dapp
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+Simple smart contract that give users an access to a whitelist for a NFT collection named Crypto Devs.
 
-Try running some of the following tasks:
+### Requirements :
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+Whitelist access should be given to the first 10 users for free who want to get in.
+
+### Stack :
+
+- Framework : Hardhat
+- Blockchain : Ethereum (Rinkeby network)
+- Solidity ^0.8.0
