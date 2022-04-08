@@ -1,0 +1,22 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+
+#Hardhat files
+cache
+artifacts
+
+# MacOs
+.DS_Store
+
+# Hardhat-whitelist-dapp
+hardhat-whitelist-dapp/node_modules
+hardhat-whitelist-dapp/node_modules
+hardhat-whitelist-dapp/.env
+hardhat-whitelist-dapp/coverage
+hardhat-whitelist-dapp/coverage.json
+hardhat-whitelist-dapp/typechain
+hardhat-whitelist-dapp/cache
+hardhat-whitelist-dapp/artifacts
